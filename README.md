@@ -7,6 +7,11 @@
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=A+Passionate+AI%2FML+Developer+From+India;A+Full+Stack+Developer;Space+and+Tech+Enthusiast)
+<div>
+<img src="https://github.com/user-attachments/assets/71c07d2f-07fb-4da7-9200-2cf00e526f19" width="300" />
+
+</div>
+
 
 </div> 
 
