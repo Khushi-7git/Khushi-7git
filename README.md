@@ -27,4 +27,20 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Khushi-7git&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+### 📚 My AI / LLM Blogs
+
+<a href="https://medium.com/@kkhushi/from-350gb-to-35mb-how-lora-qlora-and-dora-made-ai-fine-tuning-accessible-to-everyone-b4b9044be0c0">
+<img src="https://img.shields.io/badge/Blog-LoRA%20%7C%20QLoRA%20%7C%20DoRA-blue?style=for-the-badge&logo=medium" />
+</a>
+
+<a href="https://medium.com/@kkhushi/the-era-of-1-bit-llms-all-large-language-models-are-in-1-58-bits-2f113032a9fe">
+<img src="https://img.shields.io/badge/Blog-1.58%20Bit%20LLMs-orange?style=for-the-badge&logo=medium" />
+</a>
+
+<a href="https://medium.com/@kkhushi/prompt-engineering-2b8226db17fe">
+<img src="https://img.shields.io/badge/Blog-Prompt%20Engineering-green?style=for-the-badge&logo=medium" />
+</a>
+
+</div>
